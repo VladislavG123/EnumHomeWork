@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\bin\Debug\ListHomeWork.exe.config
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\bin\Debug\ListHomeWork.exe
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\bin\Debug\ListHomeWork.pdb
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\obj\Debug\ListHomeWork.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\obj\Debug\ListHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\obj\Debug\ListHomeWork.exe
+C:\Users\user1\source\repos\ListHomeWork\ListHomeWork\obj\Debug\ListHomeWork.pdb
